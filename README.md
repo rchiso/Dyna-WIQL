@@ -1,2 +1,2 @@
 # Dyna-WIQL
-Dyna-based modification to Whittle Indexed Q-Learning
+Dyna inspired modification to Whittle Index based Q-Learning
